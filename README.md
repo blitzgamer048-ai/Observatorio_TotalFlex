@@ -26,3 +26,12 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 ejecutar todo*.
 ## Declaración de uso de IA
 Usé ChatGPT para organizar y redactar la propuesta.
+
+## Supuesto 1: Los gimnasios del centro de Loja que ofrecen mensualidades más económicas atraen a más clientes que aquellos con precios elevados.
+
+##  Supuesto 2: Las promociones y descuentos de los gimnasios competidores influyen en la decisión de los clientes de inscribirse o renovar sus mensualidades.
+
+## Limitación: La información sobre precios y promociones publicada en redes sociales puede estar desactualizada. Además, no tenemos acceso a la cantidad real de clientes de los gimnasios competidores.
+
+## ¿Por qué importa para el decisor?
+Esta información permitirá al gerente de Total Flex comparar sus precios con los de la competencia y decidir si es conveniente aumentar las mensualidades o implementar promociones para incrementar los ingresos sin perder clientes.
